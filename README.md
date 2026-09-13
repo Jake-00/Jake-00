@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jake-00
 - 👀 I’m interested in Big Data and AI
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning Python
 - 📫 How to reach me -> jackleong30@gmail.com
 
 <!---
